@@ -125,7 +125,7 @@ ggplot(granBaseDeDatos, aes(fill=tamanio, y=importaciones,x=pais)) +
    geom_bar(position = "dodge", stat = "identity") + theme_minimal()
 
 
-# Represente graficamnete el nivel de costos de las empresas Chilenas
+# Represente graficamente el nivel de costos de las empresas Chilenas.
 
 ggplot(chileTotalDatos, aes(x="", y=costos, fill=tamanio))+
    geom_bar(stat = "identity",width = 1)+
