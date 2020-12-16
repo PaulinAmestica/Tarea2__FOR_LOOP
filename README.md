@@ -812,3 +812,22 @@ respuesta pto1 y pto2: orden descendente (Chile-Colombia-Peru; Grande-Mediana-Pe
 </tbody></table>
 
 
+- Pto3: Determine a través del uso de condicionales y/o for cuántas obervaciones tiene Peru versus Chile.(2 pto)
+
+En la base de datos existen 260 observaciones que corresponden a Chile.
+A su vez, la base de datos tambien contiene 260 observaciones que corresponden a Peru.
+
+
+- Pto4: Determine a través del uso de condicionales y/o for ¿cuál es el país con mayor ingresos de explotación para los años que considera la muestra.(2 pto)
+
+Dentro de la base de datos, Colombia figura como el pais que tiene mayor ingreso de explotacion en el periodo 2012 - 2017, con un ingreso promedio de: 1287233.6
+
+
+##### BONUS TRACK
+Este ejercicio es opcional y le entregará 5 décimas a su nota final.
+
+- Gráfique algunas variables seleccionadas, las cuales puedan responder a una pregunta que se haga con respecto a los datos.
+
+P1: Cuales son las empresas que han realizado mas y menos importaciones, en cada pais?
+
+
