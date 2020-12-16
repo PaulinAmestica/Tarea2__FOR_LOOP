@@ -1,4 +1,4 @@
-# Tarea2__FOR_LOOP# Tarea2_FOR_LOOP
+# Tarea2__FOR_LOOP
 
 - Se le entregan 12 bases de datos referentes a características de empresas de los países de Chile, Colombia y Peru. Las bases de datos están dentro de los periodos 2012 al 2017, y el nombre que tienen asociado está compuesto por el tamaño de las empresas y su procedencia.
 
