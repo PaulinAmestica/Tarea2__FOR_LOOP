@@ -818,7 +818,7 @@ En la base de datos existen 260 observaciones que corresponden a Chile.
 A su vez, la base de datos tambien contiene 260 observaciones que corresponden a Peru.
 
 
-- Pto4: Determine a través del uso de condicionales y/o for ¿cuál es el país con mayor ingresos de explotación para los años que considera la muestra.(2 pto)
+- Pto4: Determine a través del uso de condicionales y/o for ¿cuál es el país con mayor ingresos de explotación para los anios que considera la muestra.(2 pto)
 
 Dentro de la base de datos, Colombia figura como el pais que tiene mayor ingreso de explotacion en el periodo 2012 - 2017, con un ingreso promedio de: 1287233.6
 
@@ -832,3 +832,10 @@ P1: Cuales son las empresas que han realizado mas y menos importaciones, en cada
 
 ![Ejercicio7 parte1](https://user-images.githubusercontent.com/71929527/102405958-9faf3180-3fc8-11eb-9338-32d7050090f4.PNG)
 
+
+
+P2: Represente graficamente el nivel de costos de las empresas Chilenas y determine que tipo de empresa tiene mayor nivel de costos
+
+![Ejercicio7 parte2](https://user-images.githubusercontent.com/71929527/102407330-b060a700-3fca-11eb-9442-8bd3b8405822.PNG)
+
+Las pequenias empresas en Chile tienen mayor nivel de costos
