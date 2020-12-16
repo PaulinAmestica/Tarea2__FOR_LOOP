@@ -830,4 +830,5 @@ Este ejercicio es opcional y le entregará 5 décimas a su nota final.
 
 P1: Cuales son las empresas que han realizado mas y menos importaciones, en cada pais?
 
+![Ejercicio7 parte1](https://user-images.githubusercontent.com/71929527/102405958-9faf3180-3fc8-11eb-9338-32d7050090f4.PNG)
 
